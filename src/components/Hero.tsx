@@ -21,7 +21,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
           className="font-serif text-5xl md:text-7xl lg:text-8xl font-medium text-white mb-6 tracking-tight max-w-4xl"
         >
-          Capturing Timeless Moments
+          BACHTIAR ARYANSYAH PORTO
         </motion.h1>
         
         <motion.p
